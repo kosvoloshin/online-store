@@ -1,7 +1,8 @@
 import React from 'react';
+import { Container, Form, Card, Button, Row, Col } from 'react-bootstrap';
 
 const Shop = () => {
-    return <div>Shop</div>;
+    return <Container></Container>;
 };
 
 export default Shop;
